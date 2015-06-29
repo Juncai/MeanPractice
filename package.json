@@ -1,5 +1,6 @@
 {
   "name"         : "jun-node-todo",
+  "private"      : true,
   "version"      : "0.0.1",
   "description"  : "Simple todo application for practice purpose.",
   "main"         : "server.js",
